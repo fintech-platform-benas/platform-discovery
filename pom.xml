@@ -13,9 +13,9 @@
     </parent>
 
     <groupId>com.paymentchain</groupId>
-    <artifactId>eurekaServer</artifactId>
+    <artifactId>eureka-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>eurekaServer</name>
+    <name>eureka-server</name>
     <description>Eureka Discovery Server - Payment Chain Infrastructure</description>
     <packaging>jar</packaging>
 
